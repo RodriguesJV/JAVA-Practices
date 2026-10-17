@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex06",
+            "request": "launch",
+            "mainClass": "Ex06",
+            "projectName": "JAVA Udemy_5cc91664"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "Ex05",
+            "projectName": "JAVA Udemy_5cc91664"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "Ex04",
+            "projectName": "JAVA Udemy_5cc91664"
+        },
+        {
+            "type": "java",
             "name": "Ex03",
             "request": "launch",
             "mainClass": "Ex03",
